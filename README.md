@@ -1,6 +1,7 @@
 # privil-mng-vue
 
 > Privilege management lewk
+> poli 泊里权限管理 前台 sso版
 
 ## Build Setup
 
